@@ -29,7 +29,7 @@ p {
   box-sizing: border-box;
 }
 .main-page-wrapper {
-  background: url(./img/фон.png) ;
+  background: url(./../img/фон.png) ;
 }
 .container  {
   position: relative;
