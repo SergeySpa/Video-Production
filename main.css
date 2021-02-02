@@ -29,7 +29,7 @@ p {
   box-sizing: border-box;
 }
 .main-page-wrapper {
-  background: url(/img/фон.png) ;
+  background: url(./img/фон.png) ;
 }
 .container  {
   position: relative;
@@ -271,7 +271,7 @@ padding: 40px 29px;
   vertical-align: top;
   width: 490px;
   height: 505px;
-  background: url(/img/cameraman.png) center center / cover no-repeat;
+  background: url(./img/cameraman.png) center center / cover no-repeat;
 }
 .info__desc {
   background: #fff;
