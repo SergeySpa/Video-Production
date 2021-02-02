@@ -29,16 +29,16 @@ p {
   box-sizing: border-box;
 }
 .main-page-wrapper {
-  background: url(./img/фон.png) ;
+  background: url(/img/фон.png) ;
 }
 .container  {
+  position: relative;
   margin: 0 auto;
   width: 1142px;
   
 }
 header {
   height: 150px;
-position: relative;
 margin-bottom: 87px;
 }
 .logo {
@@ -110,7 +110,7 @@ margin-bottom: 87px;
   margin-bottom: 39px;
 }
 .btn {
-  left: 701px;
+  left: 480px;
   position: absolute;
   background: #FF3D00;
   border-radius: 35px;
@@ -271,7 +271,7 @@ padding: 40px 29px;
   vertical-align: top;
   width: 490px;
   height: 505px;
-  background: url(./img/cameraman.png) center center / cover no-repeat;
+  background: url(/img/cameraman.png) center center / cover no-repeat;
 }
 .info__desc {
   background: #fff;
@@ -309,23 +309,57 @@ background: #FF3D00;
   display: inline;
 }
 .info {
-  margin-bottom: 100px;
+  margin-bottom: 50px;
 }
-footer {
+.footer__conteiner {
   height: 150px;
   position: relative;
+  padding-top: 30px;
+  border-top: 1px solid grey;
 }
 .logo__footer {
   position: absolute;
-  top: 20px;
+  width: 52%
 }
 .menu__footer {
   position: absolute;
-  left: 540px;
-  top: 20px;
+  left: 330px;
+  top: 50px;
+}
+.socials__footer {
+  position: absolute;
+  left: 700px;
 }
 .contacts__footer {
   position: absolute;
   top: 20px;
-  right: 220px;
+  right: 0px;
+}
+.socials__footer {
+  top: 50px;
+}
+.socials__item {
+  display: inline-block;
+  margin-right: 10px;
+}
+.socials__item:last-child {
+  margin-right: 0px;
+}
+.contacts__footer {
+  top: 42px;
+}
+.contacts__call{
+  font-style: normal;
+  font-size: 11px;
+  color: #9A9A9A;
+  text-align: right;
+  margin-bottom: 4px;
+
+}
+.contacts__phone {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  line-height: 35px;
+  color: #FFFFFF;
 }
