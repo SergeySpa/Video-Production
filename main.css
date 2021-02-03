@@ -39,7 +39,7 @@ strong {
   min-width: 1150px;
 }
 .main-page-wrapper {
-  background: url(./img/hero.jpg) center top no-repeat, url(./img/bottom-pic.jpg) center bottom 302px no-repeat;
+  background: url(./../img/hero.jpg) center top no-repeat, url(./../img/bottom-pic.jpg) center bottom 302px no-repeat;
 }
 .container  {
   margin: 0 auto;
@@ -348,7 +348,7 @@ margin-bottom: 142px;
   content: "";
   width: 490px;
   height: 505px;
-  background: url(./img/cameraman.jpg) center center / cover no-repeat;
+  background: url(./../img/cameraman.jpg) center center / cover no-repeat;
 }
 
 .about__content::before,
