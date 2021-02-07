@@ -20,7 +20,7 @@
 }
 
 .socials__item--icon--telegram .socials__link {
-  background-image: url(/img/telegram.png);
+  background-image: url(./../img/telegram.png);
 }
 
 .socials__item--icon--telegram .socials__link:hover {
