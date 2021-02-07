@@ -28,7 +28,7 @@
 }
 
 .socials__item--icon--vk .socials__link {
-  background-image: url(/img/vk.png);
+  background-image: url(./../img/vk.png);
 }
 
 .socials__item--icon--vk .socials__link:hover {
