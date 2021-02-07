@@ -1,0 +1,42 @@
+.offer {
+  display:flex;
+  flex-direction: column;
+  background: #fff;
+  color: #666;
+  border-radius: 5px;
+  padding: 37px 33px 54px 22px;
+}
+.offer__header {
+  display: flex;
+  align-items: flex-end;
+  margin-bottom: 30px;
+  height: 81px;
+}
+.offer__picture {
+  padding-left: 8px;
+}
+
+.offer__content {
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+}
+
+.offer__subtitle {
+  font-size: 32px;
+  font-weight: 700;
+  color: black;
+  margin-bottom: 17px;
+}
+
+.offer__conditions {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  margin-bottom: 22px;
+}
+.offer__text {
+  font-size: 14px;
+  margin-bottom: 28px;
+  line-height: 1.6;
+}

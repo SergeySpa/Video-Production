@@ -1,0 +1,50 @@
+.about {
+  margin-bottom: 54px;
+}
+
+.about__content::before  {
+  content: "";
+  width: 490px;
+  height: 505px;
+  background: url(/img/cameraman.jpg) center center / cover no-repeat;
+  display: block;
+}
+
+.about__content {
+  display: flex;
+}
+
+
+.about__desc {
+  background: #fff;
+  padding: 70px 203px 66px 81px;
+  border-radius: 5px;
+  max-width: 785px;
+  margin-left: -139px;
+  margin-top: 90px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.about__desc-title {
+  color: #000000;
+  font-weight: 800;
+  font-size: 36px;
+  text-transform: uppercase;
+  margin-bottom: 37px;
+}
+
+.about__desc-text {
+  color: #000000;
+  margin-bottom: 42px;
+  line-height: 1.7;
+}
+
+.about__desc-text p {
+  margin-bottom: 20px;
+}
+
+.about__desc-text p:last-child {
+  margin-bottom: 0;
+}

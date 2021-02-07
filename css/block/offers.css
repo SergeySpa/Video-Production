@@ -1,0 +1,23 @@
+.offers {
+  margin-bottom: 180px;
+}
+
+
+.offers__header {
+  min-height: 146px;
+
+}
+.offers__list {
+  display: flex;
+  justify-content: space-between;
+}
+.offers__item {
+  width: calc(100% / 3 - 20px);
+}
+
+.offers__item:last-child {
+  margin-right: 0;
+}
+.conditions-offers {
+  width: 124px;
+}

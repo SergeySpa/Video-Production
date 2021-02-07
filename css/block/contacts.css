@@ -1,0 +1,40 @@
+.contacts {
+  font-style: normal;
+  text-align: right;
+}
+
+.contacts__call {
+  font-size: 11px;
+  color: #9A9A9A;
+}
+
+.contacts__phone {
+  text-decoration: none;
+  font-size: 26px;
+  margin-bottom: 4px;
+}
+
+.contacts__workhours {
+  font-size: 13px;
+  text-decoration: underline;
+  color: #FF3D00;
+}
+.contacts__footer {
+  display: flex;
+  flex-direction: column;
+}
+.contacts__call{
+  font-style: normal;
+  font-size: 11px;
+  color: #9A9A9A;
+  text-align: right;
+  line-height: 23px;
+
+}
+
+.contacts__phone {
+  font-style: normal;
+  font-weight: normal;
+  font-size: 26px;
+  color: #FFFFFF;
+}

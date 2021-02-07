@@ -1,0 +1,23 @@
+.partners {
+  display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+}
+.partners__item {
+  display: flex;
+  width: 229px;
+  min-height: 75px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 46px;
+}
+.partners__link {
+filter: grayscale(1);
+}
+.partners__item:nth-child(4n-3) {
+  justify-content: flex-start;
+}
+.partners__link:hover {
+  filter: grayscale(0);
+  transition: filter .2s;
+}

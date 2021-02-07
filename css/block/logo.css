@@ -1,0 +1,10 @@
+.logo {
+  display: block;
+  margin-right: 241px;
+
+}
+
+.logo__footer {
+  display: flex;
+  margin-right: 131px;
+}
