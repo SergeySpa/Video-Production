@@ -4,7 +4,7 @@
   flex-direction: column;
   padding-bottom: 27px;
   margin-bottom: 95px;
-  background: #17191C url(img/top-line.jpg) center top no-repeat;
+  background: #17191C url(./img/top-line.jpg) center top no-repeat;
 }
 
 .top-line__container {
