@@ -4,7 +4,7 @@
 
 @import url(./css/block/welcome.css);
 @import url(./css/block/hero.css);
-@import url(./css/block/header.css);
+@import url(/css/block/header.css);
 @import url(./css/block/logo.css);
 @import url(./css/block/menu.css);
 @import url(./css/block/contacts.css);
