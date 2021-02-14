@@ -33,6 +33,7 @@
 
 .pagination__link:hover {
   background: #FF5500;
+  transition: .5s;
 }
 .pagination--theme-light {
   color: #000;
@@ -44,5 +45,5 @@
 
 .pagination--theme-light .pagination__link:hover {
   color: #fff;
-  transition: .2s;
+  transition: .7s;
 }

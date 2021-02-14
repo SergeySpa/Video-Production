@@ -20,33 +20,33 @@
 }
 
 .socials__item--icon--telegram .socials__link {
-  background-image: url(./../../img/telegram.png);
+  background: url(/img/css_sprites.png) -122px -10px;
 }
 
 .socials__item--icon--telegram .socials__link:hover {
-  background-image: url(./../../img/telegram-h.png);
+  background: url(/img/css_sprites.png) -122px -66px;
 }
 
 .socials__item--icon--vk .socials__link {
-  background-image: url(./../../img/vk.png);
+  background: url(/img/css_sprites.png) -10px -122px;
 }
 
 .socials__item--icon--vk .socials__link:hover {
-  background-image: url(./../../img/vk-h.png);
+  background: url(/img/css_sprites.png) -66px -122px;
 }
 
 .socials__item--icon--fb .socials__link {
-  background-image: url(./../../img/facebook.png);
+  background: url(/img/css_sprites.png) -10px -10px;
 }
 
 .socials__item--icon--fb .socials__link:hover {
-  background-image: url(./../../img/facebook-h.png);
+  background: url(/img/css_sprites.png) -66px -10px;
 }
 
 .socials__item--icon--insta .socials__link {
-  background-image: url(./../../img/instagram.png);
+  background: url(/img/css_sprites.png) -10px -66px;
 }
 
 .socials__item--icon--insta .socials__link:hover {
-  background-image: url(./../../img/instagram-h.png);
+  background: url(/img/css_sprites.png) -66px -66px;
 }

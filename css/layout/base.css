@@ -67,7 +67,7 @@ footer {
 }
 
 .main-page-wrapper {
-  background: url(./../../img/hero.jpg) center top no-repeat, url(./../../img/bottom-pic.jpg) center bottom 302px no-repeat;
+  background: url(/img/hero.jpg) center top no-repeat, url(/img/bottom-pic.jpg) center bottom 302px no-repeat;
 }
 
 .container  {

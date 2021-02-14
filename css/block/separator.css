@@ -1,0 +1,23 @@
+.separator {
+  background: #373737 url(/img/party.jpg) right 20% center no-repeat;
+  min-height: 363px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  color: #fff;
+}
+
+.separator__content {
+  max-width: 49%;
+}
+
+.separator__title {
+  font-size: 48px;
+  font-weight: bold;
+  line-height: 1.4;
+  display: inline-block;
+}
+
+.separator__title--color--orange {
+  color: #FF5300;
+}
