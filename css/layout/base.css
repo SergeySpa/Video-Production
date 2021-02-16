@@ -56,6 +56,11 @@ strong {
   box-sizing: border-box;
 }
 
+button {
+  border: none;
+  background: transparent;
+  cursor: pointer;
+}
 img {
   display: block;
   max-width: 100%;
