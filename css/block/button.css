@@ -43,3 +43,23 @@
 .button-wrapper {
   margin-top: auto;
 }
+.button--form {
+  width: 168px;
+  padding: 19px 0px;
+}
+
+.button--form:first-child {
+  margin-right: 12px;
+}
+
+.button--form:last-child {
+  margin-right: 0;
+}
+
+.button--reset {
+  background: #8E8E8E;
+}
+
+.button--reset:hover {
+  background: #2B2B2B;
+}
