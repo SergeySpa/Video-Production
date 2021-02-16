@@ -58,3 +58,6 @@
 .form__button:last-child {
   margin-right: 0px;
 }
+.form__buttons .button:focus {
+  outline: none;
+}
